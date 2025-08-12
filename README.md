@@ -6,7 +6,7 @@ This robot can be used for training AI models, teleoperation, and also recording
 
 There are some other minor changes but it is functionally the same. Various options, and some files for 3D printing are also provided.
 
-The main model is on the first plate of the separate prepared files, for the Prusa XL and Bambu H2D - if you select another printer in Bambu studio it will should. The options are on the second plate. The options include:
+The main model is on the first plate of the separate prepared files, for the Prusa XL and Bambu H2D - if you select another printer in Bambu Studio it will work. The options are on the second plate. The options include:
 
 - TPU lined jaws. Note this has M3 heat set insert holes for the camera mount.
 - Mount for the Waveshare Bus Servo Driver HAT (A), a different controller board that works
