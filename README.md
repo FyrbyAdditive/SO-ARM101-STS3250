@@ -1,7 +1,13 @@
 <img src="https://raw.githubusercontent.com/FyrbyAdditive/SO-ARM101-STS3250/refs/heads/main/Media/SO-ARM101-ST3250%20-%20Right%20Side.png" width="400" /><img src="https://github.com/FyrbyAdditive/SO-ARM101-STS3250/blob/main/Media/SO-ARM101-ST3250%20-%20Extended%20Horizontally.png?raw=true" width="400" />
 
-This is an updated follower arm to the SO-ARM101 by TheRobotStudio to fit STS 3250 servos from Feetech. I made this as I wanted more torque, and also the 3250s have nicer metal cases with proper mounting points.
+This is an updated follower arm for the [SO-ARM101 by TheRobotStudio](https://github.com/TheRobotStudio/SO-ARM100) used by [Huggingface Lerobot](https://huggingface.co/docs/lerobot/index), to fit STS 3250 servos from Feetech. All the parts needed minor changes to fit these servos better. I made this as I wanted more torque, and also the 3250s have nicer metal cases with proper mounting points.
 
 There are some other minor changes but it is functionally the same. Various options, and some files for 3D printing are also provided.
 
-This is a remix of the arm originally by TheRobotStudio https://github.com/TheRobotStudio/SO-ARM100
+The main model is on the first plate of the prepared files, for the Prusa XL. The options are on the second plate. The options include:
+
+- TPU lined jaws
+- Mount for the Waveshare Bus Servo Driver HAT (A), a different controller board that works
+- A larger base which is easier to clamp, with TPU parts
+
+If printing the options with TPU parts, you must use PETG as the main plastic so they stick.
