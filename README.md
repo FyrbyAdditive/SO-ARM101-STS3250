@@ -8,7 +8,7 @@ There are some other minor changes but it is functionally the same. Various opti
 
 The main model is on the first plate of the separate prepared files, for the Prusa XL and Bambu H2D - if you select another printer in Bambu studio it will should. The options are on the second plate. The options include:
 
-- TPU lined jaws
+- TPU lined jaws. Note this has M3 heat set insert holes for the camera mount.
 - Mount for the Waveshare Bus Servo Driver HAT (A), a different controller board that works
 - A larger base which is easier to clamp, with TPU parts
 
